@@ -2,11 +2,11 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
+    cursor: default;
   }
   body {
     color:#8b1010;
     font-family: Helvetica, Arial, sans-serif;
-    
   }
   header {
     padding: 10px 20px;
@@ -120,7 +120,6 @@
   }
   .project img {
     width: 35%;
-    float: left;
   }
   .project-bio {
     padding: 35px;
